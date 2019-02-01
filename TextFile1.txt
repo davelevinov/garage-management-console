@@ -1,0 +1,10 @@
+==========================Exercise Checking Report==========================
+Exercise No...........: 3
+First Student Details.: 308152859 - David Levinov
+Second Student Details: 308577469 - Guy Shiff
+Delivery Date.........: 19 - May - 2018
+Delivered In Delay....: Yes (1 day)
+Delay Reason..........: improving code
+Visual Studio Version.: 2017
+Comments..............: N/A
+=======================End Exercise Checking Report=========================
